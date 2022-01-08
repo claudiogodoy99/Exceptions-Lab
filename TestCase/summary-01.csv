@@ -1,0 +1,4 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+Request OK,6000,180,150,1485,"102,12","0,000%","145,67350","87,20","23,33","613,0"
+Request With Exception,6000,175,150,1022,"79,11","0,000%","150,09005","89,85","23,89","613,0"
+TOTAL,12000,178,150,1485,"91,38","0,000%","289,91810","173,55","46,29","613,0"
